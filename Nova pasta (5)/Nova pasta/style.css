@@ -1,0 +1,61 @@
+h1{
+    position: absolute;
+    left: 400px;
+    color: rgb(236, 186, 57);
+}
+
+#sa{
+    position: absolute;
+    top: 100px;
+}
+
+#zx{
+    width: 100px;
+    position: fixed;
+    right: 1px;
+    z-index: 1;
+
+}
+
+#ds{
+    position: absolute;
+    top: 300px;
+}
+
+body{
+    background-color: rgb(41, 39, 39);
+}
+
+
+p{
+    color: rgb(214, 177, 82);
+}
+
+
+    
+div{
+    background-color: yellow;
+}
+
+video{
+    position: absolute;
+    right: 10px;
+    top: 200px;
+}
+
+#cx{
+    width: 200px;
+    position: absolute;
+    top: 400px;
+    border: solid goldenrod;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#xc{
+    width: 200px;
+    position: absolute;
+    top: 400px;
+    left: 350px;
+    border: solid goldenrod;
+    border-radius: 10px 10px 10px 10px;
+}
